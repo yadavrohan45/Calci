@@ -1,1 +1,2 @@
-Calculator that help to calculate numbers.
+#Calculator
+This is my first Git Repository.
